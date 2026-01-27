@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![website](https://img.shields.io/website-up-down-green-red/http/traviskessler.com.svg)](https://traviskessler.com)
+[![website](https://img.shields.io/website-up-down-green-red/http/www.traviskessler.com.svg)](https://www.traviskessler.com)
 
 ### My toolkit
 
