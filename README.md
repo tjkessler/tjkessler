@@ -11,14 +11,14 @@
 ---
 
 🎓 **PhD in Computer Engineering**  
-🔬 **ML/LLM Engineer | Software Engineer | Full-Stack Developer**  
+🔬 **ML/AI Engineer | Software Engineer | Full-Stack Developer**  
 🌟 **Specialized in machine learning for chemical property prediction**
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Experienced in building, deploying, and scaling ML/LLM solutions (Python, PyTorch, TensorFlow, scikit-learn)
+- 🧠 Experienced in building, deploying, and scaling ML/AI solutions (Python, PyTorch, TensorFlow, scikit-learn)
 - 🧪 PhD research: Developed ML models to predict chemical properties, bridging AI and scientific discovery
 - 🛠️ Full-stack developer: Next.js, FastAPI, TypeScript, Supabase, PostgreSQL, MongoDB
 - ☁️ Cloud & DevOps: Docker, DigitalOcean, Render, Modal
@@ -46,7 +46,7 @@
 
 ## 📈 Let's Connect!
 
-- 💬 I love collaborating on ML, LLM, and full-stack projects
+- 💬 I love collaborating on ML/AI and full-stack projects
 - 📫 Reach me at [travis.j.kessler@gmail.com](mailto:travis.j.kessler@gmail.com) or [LinkedIn](https://www.linkedin.com/in/traviskessler/)
 - 🌐 More about me: [www.traviskessler.com](https://www.traviskessler.com)
 
