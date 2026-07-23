@@ -20,19 +20,22 @@
 
 ## Focus
 
-<table>
+<table cellpadding="12">
   <tr>
     <td width="33%" valign="top">
       <h3>Full-stack</h3>
       <p>Production platforms (TypeScript, FastAPI, Supabase, Modal) — e.g. <a href="https://cognichem.com">Cognitive Chemistry Labs</a></p>
+      <br />
     </td>
     <td width="33%" valign="top">
       <h3>ML / AI</h3>
       <p>Agents, transformers, RAG, MLOps, and agentic analytics at scale</p>
+      <br />
     </td>
     <td width="33%" valign="top">
       <h3>Scientific computing</h3>
       <p>QSAR/QSPR &amp; fuel-property ML; open-source research tooling</p>
+      <br />
     </td>
   </tr>
 </table>
