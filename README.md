@@ -3,11 +3,11 @@
   <p><strong>PhD Computer Engineering · Full-stack · ML/AI · Scientific computing</strong></p>
   <p>Production software and ML systems grounded in published research — from scientific modeling and open-source tools to SaaS platforms and large-scale agentic analytics.</p>
   <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=94a3b8" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=94a3b8" />
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=94a3b8" />
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=94a3b8" />
-    <img alt="React" src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=94a3b8" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffd43b" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   </p>
   <p>
     <a href="https://www.traviskessler.com"><img alt="Website" src="https://img.shields.io/badge/Website-0f172a?style=flat-square" /></a>
@@ -28,7 +28,7 @@
 
 ## Open source
 
-Primary author/maintainer of the pinned [ECRL](https://github.com/ecrl) packages — including [PaDELPy](https://pypi.org/project/padelpy/) [![PaDELPy downloads](https://img.shields.io/pypi/dm/padelpy?style=flat-square&label=padelpy%20downloads&color=334155)](https://pypi.org/project/padelpy/). More work: [traviskessler.com/projects](https://www.traviskessler.com/projects).
+Primary author/maintainer of the pinned [ECRL](https://github.com/ecrl) packages — including [PaDELPy](https://pypi.org/project/padelpy/) <a href="https://pypi.org/project/padelpy/"><img alt="PaDELPy downloads" src="https://img.shields.io/pypi/dm/padelpy?style=flat-square&label=padelpy%20downloads&color=334155" align="absmiddle" height="20" /></a>. More work: [traviskessler.com/projects](https://www.traviskessler.com/projects).
 
 ## Research
 
