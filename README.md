@@ -1,3 +1,5 @@
+<div align="center">
+
 # Travis Kessler
 
 **PhD Computer Engineering · Full-stack · ML/AI · Scientific computing**
@@ -9,6 +11,8 @@ Production software and ML systems grounded in published research — from scien
 [LinkedIn](https://www.linkedin.com/in/traviskessler/) ·
 [Bluesky](https://bsky.app/profile/traviskessler.bsky.social) ·
 [Email](mailto:travis.j.kessler@gmail.com)
+
+</div>
 
 ## Focus
 
