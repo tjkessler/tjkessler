@@ -1,30 +1,38 @@
 <div align="center">
-
-# Travis Kessler
-
-**PhD Computer Engineering · Full-stack · ML/AI · Scientific computing**
-
-Production software and ML systems grounded in published research — from scientific modeling and open-source tools to SaaS platforms and large-scale agentic analytics.
-
-[Website](https://www.traviskessler.com) ·
-[CV](https://www.traviskessler.com/files/kessler_travis_cv.pdf) ·
-[LinkedIn](https://www.linkedin.com/in/traviskessler/) ·
-[Bluesky](https://bsky.app/profile/traviskessler.bsky.social) ·
-[Email](mailto:travis.j.kessler@gmail.com)
-
+  <h1>Travis Kessler</h1>
+  <p><strong>PhD Computer Engineering · Full-stack · ML/AI · Scientific computing</strong></p>
+  <p>Production software and ML systems grounded in published research — from scientific modeling and open-source tools to SaaS platforms and large-scale agentic analytics.</p>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=94a3b8" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=94a3b8" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=94a3b8" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=94a3b8" />
+    <img alt="React" src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=94a3b8" />
+  </p>
+  <p>
+    <a href="https://www.traviskessler.com"><img alt="Website" src="https://img.shields.io/badge/Website-0f172a?style=flat-square" /></a>
+    <a href="https://www.linkedin.com/in/traviskessler/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=94a3b8" /></a>
+    <a href="mailto:travis.j.kessler@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0f172a?style=flat-square" /></a>
+  </p>
 </div>
+
+---
 
 ## Focus
 
-1. **Full-stack** — production platforms (TypeScript, FastAPI, Supabase, Modal), including AI tooling for computational chemistry
-2. **ML/AI** — agents, transformers, RAG, MLOps, and agentic analytics at scale
-3. **Scientific computing** — QSAR/QSPR and fuel-property ML, with open-source research tooling
+| | |
+|---|---|
+| **Full-stack** | Production platforms (TypeScript, FastAPI, Supabase, Modal) — e.g. [Cognitive Chemistry Labs](https://cognichem.com) |
+| **ML / AI** | Agents, transformers, RAG, MLOps, agentic analytics at scale |
+| **Scientific computing** | QSAR/QSPR & fuel-property ML; open-source research tooling |
 
-Selected projects: [traviskessler.com/projects](https://www.traviskessler.com/projects).
+## Open source
+
+Primary author/maintainer of the pinned [ECRL](https://github.com/ecrl) packages — including [PaDELPy](https://pypi.org/project/padelpy/) [![PaDELPy downloads](https://img.shields.io/pypi/dm/padelpy?style=flat-square&label=padelpy%20downloads&color=334155)](https://pypi.org/project/padelpy/). More work: [traviskessler.com/projects](https://www.traviskessler.com/projects).
 
 ## Research
 
-Twelve peer-reviewed publications in combustion, QSAR, and fuel-property ML (*Fuel*, *Proceedings of the Combustion Institute*, *Journal of Open Source Software*, and others). Full list: [traviskessler.com/research](https://www.traviskessler.com/research).
+12 peer-reviewed publications in combustion, QSAR, and fuel-property ML (*Fuel*, *Proceedings of the Combustion Institute*, *JOSS*, and others). Full list: [traviskessler.com/research](https://www.traviskessler.com/research).
 
 ## Contact
 
