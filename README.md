@@ -20,11 +20,22 @@
 
 ## Focus
 
-| | |
-|---|---|
-| **Full-stack** | Production platforms (TypeScript, FastAPI, Supabase, Modal) — e.g. [Cognitive Chemistry Labs](https://cognichem.com) |
-| **ML / AI** | Agents, transformers, RAG, MLOps, agentic analytics at scale |
-| **Scientific computing** | QSAR/QSPR & fuel-property ML; open-source research tooling |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Full-stack</h3>
+      <p>Production platforms (TypeScript, FastAPI, Supabase, Modal) — e.g. <a href="https://cognichem.com">Cognitive Chemistry Labs</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>ML / AI</h3>
+      <p>Agents, transformers, RAG, MLOps, and agentic analytics at scale</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Scientific computing</h3>
+      <p>QSAR/QSPR &amp; fuel-property ML; open-source research tooling</p>
+    </td>
+  </tr>
+</table>
 
 ## Open source
 
